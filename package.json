@@ -19,5 +19,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://aqiu384.github.io/p5-tool"
+  "homepage": "https://rey5209.github.io/p"
 }
